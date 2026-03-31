@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋, I'm Leonardo</h1>
 <h3 align="center">A passionate frontend developer from The United Kingdom! (Originally from Italy)</h3>
 
-- 🔭 I’m currently working on **Developing my own website**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Backend development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **leocarneiro.freitas@hotmail.com**
 
-- ⚡ Fun fact **I speak 4 Languages and will misspell worcestershire sauce on all of them**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
