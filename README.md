@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👯 I’m looking to collaborate on **Any jobs to be honest**
+- 👯 I’m looking to collaborate on ****
 
-- 💬 Ask me about **Cheese**
+- 💬 Ask me about ****
 
 - 📫 How to reach me: **leocarneiro.freitas@hotmail.com**
 
